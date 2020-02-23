@@ -1,0 +1,10 @@
+this is the first line
+this is another line
+this is the end
+
+
+  ---- How do you create your own unchecked exception type ? -----
+
+ BreakTimeException, BrainOutOfMemoryException
+ What is unchecked exception > Anything IS-A RunTimeException
+ so All YOU NEED IS TO CREATE A SUBCLASS OF ANY CHECKED EXCEPTION WITH YOUR OWN NAME
